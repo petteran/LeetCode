@@ -8,7 +8,6 @@ package easy.回文数;
  * 创 建 人：petteran
  */
 
-import java.util.stream.IntStream;
 
 /**
  * 给你一个整数 x ，如果 x 是一个回文整数，返回 true ；否则，返回 false 。
