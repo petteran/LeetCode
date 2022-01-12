@@ -17,9 +17,7 @@ package easy.回文数;
 class Solution {
     public static void main(String[] args) {
         int x =121;
-        int y = 122;
         System.out.println(isPalindrome(x));
-        System.out.println(isPalindrome(y));
     }
 
 
