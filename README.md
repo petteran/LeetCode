@@ -1,2 +1,3 @@
 # LeetCode
- 力扣刷题
+ LeetCode刷题
+ ## 我好菜
