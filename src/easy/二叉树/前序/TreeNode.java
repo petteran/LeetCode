@@ -1,4 +1,4 @@
-package easy.二叉树遍历.后序;
+package easy.二叉树.前序;
 
 /**
  * 项目名称：LeetCode
