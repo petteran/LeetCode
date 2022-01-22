@@ -1,4 +1,4 @@
-package easy.二叉树遍历.中序;
+package easy.二叉树.中序;
 
 import java.util.ArrayList;
 import java.util.List;
