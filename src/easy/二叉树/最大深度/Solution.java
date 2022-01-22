@@ -1,4 +1,4 @@
-package easy.二叉树遍历.最大深度;
+package easy.二叉树.最大深度;
 
 /**
  * 项目名称：LeetCode
