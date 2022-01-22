@@ -1,4 +1,4 @@
-package easy.二叉树遍历.层序遍历;
+package easy.二叉树.对称二叉树;
 
 /**
  * 项目名称：LeetCode
