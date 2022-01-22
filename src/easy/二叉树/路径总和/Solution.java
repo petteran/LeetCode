@@ -1,4 +1,4 @@
-package easy.二叉树遍历.路径总和;
+package easy.二叉树.路径总和;
 
 /**
  * 项目名称：LeetCode
