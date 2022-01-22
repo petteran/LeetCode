@@ -1,4 +1,4 @@
-package easy.二叉树遍历.验证二叉搜索树;
+package easy.二叉树.验证二叉搜索树;
 
 /**
  * 项目名称：LeetCode
@@ -25,6 +25,16 @@ public class Solution {
     }
     public boolean isValidBST(TreeNode root) {
 
-        return false;
+        return isValidBst(root,null,null);
+    }
+
+    boolean isValidBst(TreeNode root, TreeNode min, TreeNode max) {
+        if (root == null) {
+            return true;
+        }
+        if (min != null && root.val <= min.val) return false;
+        if (max != null && root.val >= max.val) return false;
+
+        return isValidBst(root.left, min, root) && isValidBst(root.right, root, max);
     }
 }
