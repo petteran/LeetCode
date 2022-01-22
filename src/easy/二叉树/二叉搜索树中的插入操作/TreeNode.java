@@ -1,4 +1,4 @@
-package easy.二叉树遍历.二叉搜索树中的搜索;
+package easy.二叉树.二叉搜索树中的插入操作;
 
 /**
  * 项目名称：LeetCode
